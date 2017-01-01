@@ -1,3 +1,6 @@
 # Website
-Github Pages
-https://revivalpmmp.github.io/plugins/
+Find it at https://revivalpmmp.gq!
+
+# Domain Update
+We have now got a custom domain at https://revivalpmmp.gq
+
